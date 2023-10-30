@@ -1,6 +1,7 @@
 # GKS4008
 <H1>Midterm Project</H1>
 <H2>Bernoulli Naive Bayes Classification</H2>
-<p>This model is for classification about the MNIST handwritten dataset.
-It bases on Bayes' theorem and consumes Bernoulli distribution, offering intuitive and easy solution.
-However, it has limitation that it complusory binarized the data and can be applied only this kind of data</p>
+<p>This classification model is designed specifically for the MNIST handwritten dataset.</hr>
+It operates on the foundation of Bayes' theorem and employs the Bernoulli distribution, providing an intuitive and straightforward solution.</hr>
+The limitation of this model is that it utilizes a binomial distribution even when dealing with data that follows a continuous distribution, and its accuracy is not particularly high.</p>
+
